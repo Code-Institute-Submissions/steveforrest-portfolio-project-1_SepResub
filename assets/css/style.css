@@ -1,9 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Orbitron&display=swap');
 
-h1{
+* {
+    margin:0;
+    border: none;
+    padding: 0;
+}
+
+h1, h2{
     font-family: Orbitron, Helvetica, sans-serif;
 }
 
 p{
     font-family: Lato, Helvetica, sans-serif;
+}
+
+header{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+header h1{
+    word-spacing: 20px;
+}
+
+#logo{
+    float: left;
+    font-size: 300%;
+}
+
+#nav-links{
+    font-size: 410%;
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
 }
