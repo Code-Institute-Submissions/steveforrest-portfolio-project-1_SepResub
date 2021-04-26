@@ -61,8 +61,18 @@ header {
     border-bottom: 1px solid #2e4b88;
 }
 
+/* Footer*/
+
 footer{
     position: absolute;
     bottom: 0;
     width: 100%;
+    margin-bottom: 35px;
+    padding-top: 35px;
+    border-top: 2px solid #171718
 }
+
+.contact-us{
+    text-align:center;
+}
+
