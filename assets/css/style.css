@@ -79,3 +79,12 @@ footer{
     text-align:center;
 }
 
+/* Hero image*/
+
+#hero-image{
+    height: 700px;
+    width: 100%;
+    object-fit: contain;
+    background: url(../css/images/Backdrop-Heroimage\ \(1\).jpg);
+
+}
