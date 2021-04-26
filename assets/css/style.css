@@ -60,3 +60,9 @@ header {
 .active {
     border-bottom: 1px solid #2e4b88;
 }
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
