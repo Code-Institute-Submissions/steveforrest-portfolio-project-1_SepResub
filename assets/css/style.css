@@ -1,36 +1,62 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Orbitron&display=swap');
 
 * {
-    margin:0;
+    margin: 0;
     border: none;
     padding: 0;
 }
 
-h1, h2{
-    font-family: Orbitron, Helvetica, sans-serif;
+body {
+    background-color: #f1eff5
 }
 
-p{
+h1,
+h2 {
+    font-family: Orbitron, Helvetica, sans-serif;
+    color: #2e4b88;
+}
+
+p {
     font-family: Lato, Helvetica, sans-serif;
 }
 
-header{
+header {
     text-transform: uppercase;
     letter-spacing: 3px;
 }
 
-header h1{
-    word-spacing: 20px;
-}
 
-#logo{
+#logo {
     float: left;
     font-size: 300%;
+    word-spacing: 20px;
+    margin-left: 5%;
+
 }
 
-#nav-links{
-    font-size: 410%;
-    float: right;
-    text-decoration: none;
+#nav-links {
+    font-size: 110%;
+    }
+
+#nav-links li {
     list-style-type: none;
+    margin-right: 30px;
+    float: right;
+}
+
+#nav-links a {
+    text-decoration: none;
+}
+
+#nav-links,
+#logo {
+    line-height: 75px;
+}
+
+#nav-links a:hover {
+    border-bottom: 1px solid #2e4b88;
+}
+
+.active {
+    border-bottom: 1px solid #2e4b88;
 }
