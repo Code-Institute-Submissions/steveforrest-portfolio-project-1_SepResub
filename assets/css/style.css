@@ -18,6 +18,7 @@ h2 {
 
 p {
     font-family: Lato, Helvetica, sans-serif;
+    color: #2e4b88;
 }
 
 header {
@@ -64,6 +65,40 @@ header {
     border-bottom: 1px solid #2e4b88;
 }
 
+
+/* Hero image*/
+
+#hero-image{
+    height: 700px;
+    width: 100%;
+    object-fit: contain;
+    background: url(../css/images/Backdrop-Heroimage\ \(1\).jpg);
+    padding-top: 70px;
+
+}
+
+/* list of reasons */
+
+
+
+#rreason{
+    float:right;
+    position: relative;
+    right: 500px;
+    font-family: Lato, Helvetica, sans-serif;
+    color: #2e4b88;
+    padding-top:70px;
+}
+
+#lreason{
+    float:left;
+    position:relative;
+    left: 500px;
+    font-family: Lato, Helvetica, sans-serif;
+    color: #2e4b88;
+    padding-top:70px;
+}
+
 /* Footer*/
 
 footer{
@@ -79,12 +114,3 @@ footer{
     text-align:center;
 }
 
-/* Hero image*/
-
-#hero-image{
-    height: 700px;
-    width: 100%;
-    object-fit: contain;
-    background: url(../css/images/Backdrop-Heroimage\ \(1\).jpg);
-
-}
