@@ -28,7 +28,6 @@ header {
     letter-spacing: 3px;
     padding-bottom: 80px;
     border-bottom: 2px solid #171718
-
 }
 
 
@@ -42,7 +41,7 @@ header {
 
 #nav-links {
     font-size: 110%;
-    }
+}
 
 #nav-links li {
     list-style-type: none;
@@ -69,75 +68,87 @@ header {
 
 
 /* Hero image*/
-
-#hero-image{
-    height: 700px;
+#hero-container {
     width: 100%;
-    object-fit: contain;
-    background: url(../css/images/Backdrop-Heroimage\ \(1\).jpg);
-    padding-top: 70px;
-
+    padding-top: 20px;
+    margin: 0 auto;
+    
 }
+
+#hero-image {
+
+    position: relative;
+    background: url(../css/images/Backdrop-Heroimage2.jpg) no-repeat;
+    padding-top: 70px;
+    width: 100%;
+    height: 700px;
+    background-size: contain;
+   }
 
 /* list of reasons */
 
-.reason{
+.reason {
     font-family: Lato, Helvetica, sans-serif;
     color: #2e4b88;
     font-size: 130%;
     list-style: none;
 }
 
-#rreason{
-    float:right;
+#rreason {
+    float: right;
     position: relative;
-    right: 300px;
-    padding-top:35px;
     text-align: left;
-    width:33%;
-       
+    width: 33%;
+
 }
 
-#lreason{
-    float:left;
-    position:relative;
-    left: 300px;
-    padding-top:35px;
-    width:33%;
+#lreason {
+    float: left;
+    position: relative;
+    width: 33%;
     text-align: right;
-    
+
 }
 
-#lreason, #rreason{
+#lreason,
+#rreason {
     padding-bottom: 20px;
     line-height: 250%;
 }
+
 /* invite img */
 
-#invite-img{
+#invite-img {
     padding-bottom: 35px;
     padding-top: 20px;
-    
-    }
 
-.center{
-    width:33.3%;
-    position:relative;
-    top: 50px;
+
+}
+
+.center {
+    width: 33.3%;
+    position: relative;
+    top: 20px;
     margin: 0 auto;
     text-align: center;
     font-size: 150%;
-    
+
 }
 
-#figcaption{
+#figcaption {
     font-size: 80%;
     text-decoration: none;
 }
 
+#figcaption img {
+    max-width: 30%;
+    max-height: 30%;
+    border-radius: 5px;
+}
+
 /* Footer*/
 
-footer{
+footer {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -147,7 +158,26 @@ footer{
 
 }
 
-.contact-us{
-    text-align:center;
+.contact-us {
+    text-align: center;
 }
 
+/*media query */
+@media screen and (max-width: 1300px) {
+
+    header{
+    font-size: 80%;
+    
+}
+#hero-image {
+    position: relative;
+    background: url(../css/images/Backdrop-Heroimage2.jpg) no-repeat;
+    padding-top: 70px;
+    width: 100%;
+    height: 400px;
+    background-size: contain;
+}
+
+@media screen and (max-width: 1200px) {
+
+}
