@@ -68,21 +68,18 @@ header {
 
 
 /* Hero image*/
-#hero-container {
+#hero-image {
+    height: 600px;
     width: 100%;
-    padding-top: 20px;
-    margin: 0 auto;
+    background: url(../css/images/Backdrop-Heroimage2.jpg) no-repeat;
+    background-size: 100%;
 
 }
 
-#hero-image {
+/* reasons to visit us */
 
-    position: relative;
-    background: url(../css/images/Backdrop-Heroimage2.jpg) no-repeat;
-    padding-top: 70px;
-    width: 100%;
-    height: 700px;
-    background-size: contain;
+#visitreasons {
+    height: 600px;
 }
 
 /* list of reasons */
@@ -90,79 +87,51 @@ header {
 .reason {
     font-family: Lato, Helvetica, sans-serif;
     color: #2e4b88;
-    font-size: 130%;
-    list-style: none;
+    list-style-type: none;
 }
 
 #rreason {
-    float: right;
-    position: relative;
-    text-align: left;
-    width: 33%;
 
+    width: 33%;
+    float: right;
+    text-align: center;
 }
 
 #lreason {
-    float: left;
-    position: relative;
+
     width: 33%;
-    text-align: right;
-
+    float: left;
+    text-align: center;
+    
 }
 
-#lreason,
-#rreason {
-    padding-bottom: 20px;
-    line-height: 250%;
-}
-
-/* invite img */
-
-#invite-img {
-    padding-bottom: 35px;
-    padding-top: 20px;
-
-
-}
-
-.center {
-    width: 33.3%;
-    position: relative;
-    top: 20px;
+#center {
+    width: 33%;
     margin: 0 auto;
     text-align: center;
-    font-size: 150%;
-
+    font-size: 100%;
 }
 
-#figcaption {
-    font-size: 80%;
-    text-decoration: none;
-}
+
+
 
 #figcaption img {
-    max-width: 30%;
-    max-height: 30%;
-    border-radius: 5px;
+    height: 150px;
 }
 
 /* Footer*/
 
 footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    margin-bottom: 35px;
-    padding-top: 35px;
-    border-top: 2px solid #171718;
-
+    height: 75px;
+    padding-top: 10px;
+    border-top: 1px #171718 solid;
 }
 
 .contact-us {
     text-align: center;
 }
 
-/*media query */
+/*media query 
 @media screen and (max-width: 1300px) {
 
     header {
@@ -212,3 +181,4 @@ footer {
 
     }
 }
+*/
