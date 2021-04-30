@@ -33,14 +33,14 @@ header {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 3REM;
     word-spacing: 20px;
     margin-left: 5%;
 
 }
 
 #nav-links {
-    font-size: 110%;
+    font-size: 1.1REM;
 }
 
 #nav-links li {
@@ -88,6 +88,7 @@ header {
     font-family: Lato, Helvetica, sans-serif;
     color: #2e4b88;
     list-style-type: none;
+    font-size: 200%;
 }
 
 #rreason {
@@ -102,18 +103,19 @@ header {
     width: 33%;
     float: left;
     text-align: center;
-    
+
 }
 
 #center {
     width: 33%;
     margin: 0 auto;
     text-align: center;
-    font-size: 100%;
 }
 
-
-
+#center p {
+    font-size: 150%;
+    ;
+}
 
 #figcaption img {
     height: 150px;
@@ -131,54 +133,51 @@ footer {
     text-align: center;
 }
 
-/*media query 
-@media screen and (max-width: 1300px) {
+/*media query */
 
-    header {
-        font-size: 80%;
-
-    }
-
-    #hero-image {
- 
-        height: 600px;
-        
-    }
-}
+@media screen and (max-width: 1550px) {}
 
 @media screen and (max-width: 1200px) {
-
-    #hero-image {
- 
-        height: 400px;
-        
-    }
-
-    #gateway {
-        width: 80%;
-        margin: 0 auto;
-    }
 
     #lreason,
     #rreason {
         width: 100%;
-        text-align: center;
+        margin-bottom: 20px;
     }
 
-    .center {
+    #center {
         width: 100%;
     }
+
+    #center p {
+        margin-top: 15px;
+    }
 }
 
-@media screen and (max-width: 1050px){
-    
-    #hero-image {
-        height: 300px;
-    }
-    
+@media screen and (max-width:320px) {
     header {
-        font-size: 60%;
+        padding-bottom: 40px;
+    }
 
+    #logo {
+        font-size: 0.5REM;
+        word-spacing: 2px;
+        line-height: 45px;
+    }
+
+    #nav-links {
+        font-size: 0.3REM;
+        letter-spacing: 0;
+        word-spacing: 2px;
+        line-height: 45px;
+    }
+
+    #hero-image {
+        height: 90px;
+    }
+
+    #visitreasons {
+        font-size: 0.4REM;
+        padding-top: 50px;
     }
 }
-*/
