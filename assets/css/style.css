@@ -76,12 +76,6 @@ header {
 
 }
 
-/* reasons to visit us */
-
-#visitreasons {
-    height: 600px;
-}
-
 /* list of reasons */
 
 .reason {
@@ -154,10 +148,10 @@ footer {
     }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:450px) {
     header {
         padding-bottom: 40px;
-    }
+    } 
 
     #logo {
         font-size: 0.5REM;
