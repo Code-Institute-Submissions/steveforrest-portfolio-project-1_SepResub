@@ -1,177 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Orbitron&display=swap');
-
-* {
-    margin: 0;
-    border: none;
-    padding: 0;
+body{
+    background-color: #000000;
+   
+    
 }
 
-body {
-    background-color: #f1eff5
+.font-color-orange{
+    color: #ff5f1f
 }
 
-h1,
-h2 {
-    font-family: Orbitron, Helvetica, sans-serif;
-    color: #2e4b88;
-}
-
-p {
-    font-family: Lato, Helvetica, sans-serif;
-    color: #2e4b88;
-}
-
-/* Header */
-
-header {
+.text-upper-case{ 
     text-transform: uppercase;
-    letter-spacing: 3px;
-    padding-bottom: 80px;
-    border-bottom: 2px solid #171718
 }
 
-
-#logo {
-    float: left;
-    font-size: 3REM;
-    word-spacing: 20px;
-    margin-left: 5%;
-
-}
-
-#nav-links {
-    font-size: 1.1REM;
-}
-
-#nav-links li {
-    list-style-type: none;
-    margin-right: 30px;
-    float: right;
-}
-
-#nav-links a {
-    text-decoration: none;
-}
-
-#nav-links,
-#logo {
-    line-height: 75px;
-}
-
-#nav-links a:hover {
-    border-bottom: 1px solid #2e4b88;
-}
-
-.active {
-    border-bottom: 1px solid #2e4b88;
-}
-
-
-/* Hero image*/
-#hero-image {
-    height: 600px;
-    width: 100%;
-    background: url(../css/images/Backdrop-Heroimage2.jpg) no-repeat;
-    background-size: 100%;
-
-}
-
-/* list of reasons */
-
-.reason {
-    font-family: Lato, Helvetica, sans-serif;
-    color: #2e4b88;
-    list-style-type: none;
-    font-size: 200%;
-}
-
-#rreason {
-
-    width: 33%;
-    float: right;
+.text-center{
     text-align: center;
 }
 
-#lreason {
-
-    width: 33%;
-    float: left;
-    text-align: center;
-
+.left{
+    float:left;
 }
 
-#center {
-    width: 33%;
+.center{
     margin: 0 auto;
-    text-align: center;
 }
 
-#center p {
-    font-size: 150%;
-    ;
+.right{
+    float: right;
 }
 
-#figcaption img {
-    height: 150px;
-}
-
-/* Footer*/
-
-footer {
-    height: 75px;
-    padding-top: 10px;
-    border-top: 1px #171718 solid;
-}
-
-.contact-us {
-    text-align: center;
-}
-
-/*media query */
-
-@media screen and (max-width: 1550px) {}
-
-@media screen and (max-width: 1200px) {
-
-    #lreason,
-    #rreason {
-        width: 100%;
-        margin-bottom: 20px;
-    }
-
-    #center {
-        width: 100%;
-    }
-
-    #center p {
-        margin-top: 15px;
-    }
-}
-
-@media screen and (max-width:450px) {
-    header {
-        padding-bottom: 40px;
-    } 
-
-    #logo {
-        font-size: 0.5REM;
-        word-spacing: 2px;
-        line-height: 45px;
-    }
-
-    #nav-links {
-        font-size: 0.3REM;
-        letter-spacing: 0;
-        word-spacing: 2px;
-        line-height: 45px;
-    }
-
-    #hero-image {
-        height: 90px;
-    }
-
-    #visitreasons {
-        font-size: 0.4REM;
-        padding-top: 50px;
-    }
+.third-screen{
+    width: 33%;
 }
