@@ -138,31 +138,60 @@ button {
     width: 100%;
     background-size: contain;
     background-position: center;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-form {
+/*.enquiry-form {
     border: 3px solid #3b3355;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    margin:1rem;
+    margin: 1rem;
     justify-content: center;
     align-items: center;
     background: RGBA(255, 95, 31, .5);
     width: 20%;
 }
 
-input textarea{
+input textarea {
     width: 90%;
     display: block;
 }
 
-label{
+label {
     width: 90%;
     display: block;
 }
-
+*/
 .max-width {
     width: 100%;
-    }
+}
+
+.enquiry-form {
+    border: 3px solid #3b3355;
+    border-radius: 10px;
+    background: RGBA(255, 95, 31, .5);
+    width: 20%;
+    height: 30%;
+    padding: 1rem;
+}
+
+input {
+    width: 90%;
+    display: block;
+}
+
+textarea {
+    width: 90%;
+    display: block;
+
+}
+
+label {
+    display: block;
+    width: 100%;
+    padding: 1rem 0 0.25rem;
+}
