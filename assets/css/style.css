@@ -17,11 +17,11 @@ footer > ul {
 }
 
 h1 {
-    font-size: 7rem;
+    font-size: 2rem;
 }
 
 h2 {
-    font-size: 5rem;
+    font-size: 1.5rem;
     font-family: Orbitron, sans-serif;
 
 }
@@ -31,7 +31,7 @@ h4{
 }
 
 nav {
-    font-size: 3rem;
+    font-size: 0.5rem;
 }
 
 .font-color-orange {
@@ -81,7 +81,10 @@ nav {
     align-items: center;
     padding-bottom: 1rem;
     border-bottom: 2px solid #3b3355;
+   /* flex-direction: column;*/
 }
+
+
 
 #landing-pg-content {
     margin: 6rem 0 1rem;
@@ -90,7 +93,7 @@ nav {
 .flex-content>li {
     max-width: 32%;
     margin: 0.5rem;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .no-list-decor {
@@ -121,7 +124,7 @@ nav {
 }
 
 #reasons-list>li {
-    font-size: 1.5rem;
+    font-size: 0.75rem;
 }
 
 button {
@@ -198,3 +201,13 @@ label {
 .contact-img{
     width: 25%;
 }
+
+.flex-gallery {
+     display: flex;
+    justify-content: space-evenly;
+    flex-basis: 40%;
+    flex-flow: wrap;
+    align-items: center;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #3b3355;
+    }
