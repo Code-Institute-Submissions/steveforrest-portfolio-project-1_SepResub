@@ -10,6 +10,7 @@ header {
 
 footer {
     border-top: 2px solid #3b3355;
+    font-family: Lato, sans-serif;
 }
 
 h1 {
@@ -71,16 +72,18 @@ nav {
     flex-basis: 40%;
     flex-flow: wrap;
     align-items: center;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #3b3355;
 }
 
 #landing-pg-content {
-    margin: 5rem;
+    margin: 6rem 0 1rem;
 }
 
 .flex-content>li {
     max-width: 32%;
     margin: 0.5rem;
-
+    font-size: 2rem;
 }
 
 .no-list-decor {
@@ -107,11 +110,11 @@ nav {
 }
 
 .active {
-    border-bottom: 1px solid #ff5f1f;
+    border-bottom: 3px solid #ff5f1f;
 }
 
 #reasons-list>li {
-    font-size: 0.75rem;
+    font-size: 1.5rem;
 }
 
 button {
@@ -173,3 +176,4 @@ label {
     width: 20%;
     height: 30%;
 }
+
