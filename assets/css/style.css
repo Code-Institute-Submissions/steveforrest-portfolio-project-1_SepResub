@@ -12,7 +12,7 @@ footer {
     border-top: 2px solid #3b3355;
 }
 
-footer > ul {
+footer>ul {
     list-style-type: none;
 }
 
@@ -26,7 +26,7 @@ h2 {
 
 }
 
-h4{
+h4 {
     font-size: 3rem;
 }
 
@@ -81,20 +81,20 @@ nav {
     align-items: center;
     padding-bottom: 1rem;
     border-bottom: 2px solid #3b3355;
-   flex-direction: column;
+    flex-direction: column;
 }
 
 
 
 #landing-pg-content {
-    margin: 6rem 0 1rem;
+    margin: 3rem 0 1rem;
 }
 
 .flex-content>li {
     max-width: 32%;
     margin: 0.5rem;
     font-size: 1rem;
-}
+    }
 
 .no-list-decor {
     list-style-type: none;
@@ -147,7 +147,7 @@ button {
 .contact-background {
     background-image: url("/assets/css/images/contact.jpg");
     background-repeat: no-repeat;
-    height: 1700px;
+    height: 700px;
     width: 100%;
     background-size: contain;
     background-position: center;
@@ -193,27 +193,34 @@ label {
     flex-wrap: wrap;
     justify-content: space-around;
     margin: 4rem;
-    font-size: 2rem;
+    font-size: 1rem;
     text-align: center;
     list-style-type: none;
 }
 
-.contact-img{
-    width: 25%;
+.contact-img {
+    width: 75%;
 }
 
 .flex-gallery {
-     display: flex;
+    display: flex;
     justify-content: space-evenly;
     flex-basis: 40%;
     flex-flow: wrap;
     align-items: center;
     padding-bottom: 1rem;
     border-bottom: 2px solid #3b3355;
-    }
+}
 
-    .flex-gallery > li {
-        max-width: 32%;
-        margin: 0.5rem;
-        font-size: 1rem;
-    }
+.flex-gallery>li {
+    max-width: 32%;
+    margin: 0.5rem;
+    font-size: 1rem;
+}
+
+.flex-home-content>li {
+    max-width: 60%;
+    margin: 0.5rem;
+    font-size: 1rem;
+    margin: 0 auto;
+}
