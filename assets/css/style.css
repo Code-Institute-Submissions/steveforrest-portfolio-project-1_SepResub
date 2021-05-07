@@ -209,8 +209,7 @@ label {
     flex-flow: wrap;
     align-items: center;
     padding-bottom: 1rem;
-    
-    }
+        }
 
 .flex-gallery>li {
     max-width: 32%;
@@ -220,9 +219,14 @@ label {
 
 /*controls content specific to the home page*/
 
-.flex-home-content>li {
+
+.flex-home-content {
     max-width: 60%;
     margin: 0.5rem;
     font-size: 1rem;
     margin: 0 auto;
+}
+
+.flex-home-content>li {
+    padding:0.5rem;
 }
