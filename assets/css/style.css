@@ -145,7 +145,7 @@ button {
 }
 
 .contact-background {
-    background-image: url("/assets/css/images/contact.jpg");
+    background-image: url("images/contact.jpg");
     background-repeat: no-repeat;
     height: 700px;
     width: 100%;
