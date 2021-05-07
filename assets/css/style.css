@@ -162,29 +162,6 @@ button {
     width: 100%;
 }
 
-.enquiry-form {
-    border: 3px solid #3b3355;
-    border-radius: 10px;
-    background: RGBA(255, 95, 31, .5);
-    width: 40%;
-    height: 30%;
-    padding: 1rem;
-    font-size: 0.5rem;
-}
-
-input,
-textarea {
-    width: 90%;
-    display: block;
-}
-
-label {
-    display: block;
-    width: 100%;
-    padding: 1rem 0 0.25rem;
-}
-
-
 
 .contact-flex {
     display: flex;
@@ -229,4 +206,46 @@ label {
 
 .flex-home-content>li {
     padding:0.5rem;
+}
+
+/* form elements */
+
+.enquiry-form {
+    border: 3px solid #3b3355;
+    border-radius: 10px;
+    background: RGBA(255, 95, 31, .5);
+    position: absolute;
+    top: 16rem;
+    width: 40%;
+    height: 25%;
+    padding: 1rem;
+    font-size: 0.5rem;
+}
+
+input,
+textarea {
+    width: 90%;
+    display: block;
+    border: 2px solid #3B3355;
+}
+
+label {
+    display: block;
+    width: 100%;
+    padding: 1rem 0 0.25rem;
+}
+
+
+
+
+
+.button {
+    background-color: #3B3355;
+    height: 2rem;
+    width: 6rem;
+    border: 1px solid #ff5f1f;
+    border-radius: 10px;
+    font-size: .5rem;
+    color: #ff5f1f;
+    margin: 2rem;
 }
