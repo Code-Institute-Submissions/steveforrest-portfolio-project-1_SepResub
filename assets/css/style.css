@@ -161,7 +161,8 @@ button {
 .max-width {
     width: 100%;
 }
-
+ 
+/* code for contact page */
 
 .contact-flex {
     display: flex;
@@ -175,6 +176,10 @@ button {
 
 .contact-img {
     width: 75%;
+}
+
+.contact-flex > li{
+    padding:0;
 }
 
 /*controls content on the gallery html */
