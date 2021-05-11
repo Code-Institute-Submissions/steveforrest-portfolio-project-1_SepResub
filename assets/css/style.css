@@ -6,6 +6,7 @@ body {
 header {
     border-bottom: 2px solid #3b3355;
     font-family: Orbitron, sans-serif;
+    text
 }
 
 footer {
@@ -64,6 +65,10 @@ nav {
 
 .right {
     float: right;
+}
+
+padding-0{
+    padding:0;
 }
 
 
@@ -161,14 +166,14 @@ button {
 .max-width {
     width: 100%;
 }
- 
+
 /* code for contact page */
 
 .contact-flex {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 4rem;
+    margin: 4rem 0;
     font-size: 1rem;
     text-align: center;
     list-style-type: none;
@@ -178,8 +183,8 @@ button {
     width: 75%;
 }
 
-.contact-flex > li{
-    padding:0;
+.contact-flex>li {
+    padding: 0;
 }
 
 /*controls content on the gallery html */
@@ -197,6 +202,10 @@ button {
     max-width: 32%;
     margin: 0.5rem;
     font-size: 1rem;
+}
+
+figure {
+    margin: 0;
 }
 
 /*controls content specific to the home page*/
