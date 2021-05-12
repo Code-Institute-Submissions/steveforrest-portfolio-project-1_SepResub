@@ -153,19 +153,6 @@ button {
     text-decoration: none;
 }
 
-.contact-background {
-    background-image: url("images/contact.jpg");
-    background-repeat: no-repeat;
-    height: 700px;
-    width: 100%;
-    background-size: contain;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
 
 .max-width {
     width: 100%;
@@ -225,6 +212,23 @@ figure {
 .flex-home-content>li {
     padding: 0.5rem;
 }
+
+/* form background image */
+
+
+.contact-background {
+    background-image: url("images/contact.jpg");
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 100%;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /* form elements */
 
