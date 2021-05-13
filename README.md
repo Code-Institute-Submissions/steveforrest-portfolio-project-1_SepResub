@@ -27,13 +27,15 @@ Under construction.
 
 ## Libraries and Other programns / sites
 
-* google fonts
-* Font Awesome
-* Git hub
-* Balsamiq
-* lightshot
+* https://fonts.google.com/
+* https://fontawesome.com/
+* https://github.com/
+* https://balsamiq.com/
+
 
 ## Citations
+
+
 
 Spikeybits.com
 https://www.pinterest.co.uk/pin/491455378086406395/?d=t&mt=login taken for contact for back ground image
