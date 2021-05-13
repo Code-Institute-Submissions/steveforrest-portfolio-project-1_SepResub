@@ -4,6 +4,13 @@
 
 This site will be used to help pepromote demonstrating minatures people have painted and allow commisions to be arranged or just to show case their work.
 
+
+## UX
+
+### Logo
+
+### User stories
+
 ## Future builds 
 
 The site will be intended to facilitate sales, bids on already painted models and a funtion to allow commissions to be made with more ease, eg. Allow people to select amount of models quality of painting when the commision should be achieved by and allow the person fulfilling the commission to quote accordingly.
@@ -57,6 +64,7 @@ Who we are is a page where you will be able to find out some details about the p
 * [W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
+## screen shot of site
 
 ## Citations
 
