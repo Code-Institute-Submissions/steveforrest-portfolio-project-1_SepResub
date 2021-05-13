@@ -17,7 +17,7 @@ Under construction.
 ## WireFRame 
 
 
-![Home page wireframe](assets/css/wireframe-first-project1.png)
+![Home page wireframe](assets/Readme-images/wireframe-first-project1.png)
 
 
 ## Languages
