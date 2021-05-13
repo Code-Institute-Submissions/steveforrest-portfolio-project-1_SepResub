@@ -16,6 +16,17 @@ Under construction.
 
 ## WireFRame 
 
+Home page
+![Home page](/images/wire-frame-project1.png)
+
+
+## Languages
+
+HTML
+CSS
+
+##
+
 ## Citations
 
 Spikeybits.com
