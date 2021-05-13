@@ -221,7 +221,7 @@ figure {
 .contact-background {
     background-image: url("images/contact.jpg");
     background-repeat: no-repeat;
-    height: 550px;
+    height: 700px;
     width: 100%;
     background-size: contain;
     background-position: center;
@@ -240,7 +240,7 @@ figure {
     background: RGBA(255, 95, 31, .5);
     position: relative;
     font-size: 1.5rem;
-    height: 550px;
+    height: 600px;
     margin: 2rem 0;
     width: 100%;
 }
