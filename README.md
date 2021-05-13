@@ -27,10 +27,10 @@ Under construction.
 
 ## Libraries and Other programns / sites
 
-* [Google Fonts}(https://fonts.google.com/)
-* https://fontawesome.com/
-* https://github.com/
-* https://balsamiq.com/
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [GitHub](https://github.com/)
+* [Balsamiq](https://balsamiq.com/)
 
 
 ## Citations
