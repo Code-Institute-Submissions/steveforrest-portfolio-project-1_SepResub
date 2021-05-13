@@ -35,8 +35,8 @@ Under construction.
 
 ## Languages
 
-* HTML5
-* CSS3
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Libraries and Other programns / sites
 
@@ -53,9 +53,6 @@ Under construction.
 
 ## Citations
 
-
-
-Spikeybits.com
-https://www.pinterest.co.uk/pin/491455378086406395/?d=t&mt=login taken for contact for back ground image
+[Spikeybits.com](https://www.pinterest.co.uk/pin/491455378086406395/?d=t&mt=login taken for contact for back ground image)
 
 
