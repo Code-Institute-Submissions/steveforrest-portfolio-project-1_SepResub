@@ -27,7 +27,7 @@ Under construction.
 
 ## Libraries and Other programns / sites
 
-* https://fonts.google.com/
+* [Google Fonts}(https://fonts.google.com/)
 * https://fontawesome.com/
 * https://github.com/
 * https://balsamiq.com/
