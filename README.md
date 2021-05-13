@@ -47,8 +47,8 @@ Under construction.
 
 ## Testing
 
-[W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-[W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 
 ## Citations
