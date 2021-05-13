@@ -16,14 +16,14 @@ Under construction.
 
 ## WireFRame 
 
-Home page
-![Home page](/images/wire-frame-project1.png)
+
+![Home page](wireframe-first-project1.png)
 
 
 ## Languages
 
-HTML
-CSS
+* HTML5
+* CSS3
 
 ##
 
