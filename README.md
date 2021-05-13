@@ -20,18 +20,25 @@ Under construction.
 
 ![Home page wireframe where you will first come to when searching for the site](assets/Readme-images/wireframe-first-project1.png)
 
+Home page wireframe where you will first come to when searching for the site
+
 #### Gallery page Wireframe
 
 ![Gallery page wireframe where you will See all images that are able to be bought clicking on the image will take to a new tab where the image is larger or on the name to a new tab where you can message the seller](assets/Readme-images/wireframe-gallery.png)
+
+Gallery page wireframe where you will See all images that are able to be bought clicking on the image will take to a new tab where the image is larger or on the name to a new tab where you can message the seller
 
 #### Enquiry form Wireframe
 
 ![contact form page wireframe where you will be able to enter details in with an enquiry so that the seller can respond](assets/Readme-images/wireframe-contact-form.png)
 
+contact form page wireframe where you will be able to enter details in with an enquiry so that the seller can respond
 
 #### Who we are contact form Wireframe
 
 ![Who we are is a page where you will be able to find out some details about the physicalk place with details like location and a map](assets/Readme-images/wireframe-whower.png)
+
+Who we are is a page where you will be able to find out some details about the physicalk place with details like location and a map
 
 ## Languages
 
