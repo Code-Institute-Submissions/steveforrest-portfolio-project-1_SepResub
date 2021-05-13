@@ -17,7 +17,7 @@ Under construction.
 ## WireFRame 
 
 
-![Home page](wireframe-first-project1.png)
+![Home page](../assets/images/wireframe-first-project1.png)
 
 
 ## Languages
@@ -25,7 +25,13 @@ Under construction.
 * HTML5
 * CSS3
 
-##
+## Libraries and Other programns / sites
+
+* google fonts
+* Font Awesome
+* Git hub
+* Balsamiq
+* lightshot
 
 ## Citations
 
