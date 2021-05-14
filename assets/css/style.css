@@ -112,17 +112,6 @@ button {
 }
 
 
-/*.flex-content {
-    display: flex;
-    justify-content: space-evenly;
-    flex-basis: 40%;
-    flex-flow: wrap;
-    align-items: center;
-    padding-bottom: 1rem;
-    border-bottom: 2px solid #3b3355;
-    flex-direction: column;
-}
-*/
 /* home page */
 
 #landing-pg-content {
@@ -132,8 +121,6 @@ button {
 .no-list-decor {
     list-style-type: none;
 }
-
-
 
 
 
@@ -413,6 +400,20 @@ label {
 
     .contact-flex {
         font-size: 1.4rem;
+    }
+
+    .contact-background {
+        height: 1100px;
+           }
+
+
+
+    /* Enquiry form */
+    
+
+    .enquiry-form {
+        top: -260px;
+        left: -260px;
     }
 
 
