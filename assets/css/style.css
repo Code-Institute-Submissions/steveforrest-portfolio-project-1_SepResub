@@ -94,6 +94,23 @@ nav {
     border-bottom: 1.5px solid #ff5f1f;
 }
 
+button {
+    background-color: #3B3355;
+    height: 5rem;
+    width: 15rem;
+    border: 1px solid #ff5f1f;
+    border-radius: 10px;
+    font-size: 2rem;
+    color: #ff5f1f;
+    margin: 2rem;
+}
+
+.button-center {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
 
 /*.flex-content {
     display: flex;
@@ -112,48 +129,14 @@ nav {
     margin: 3rem 0 1rem;
 }
 
-/*.flex-content>li {
-    max-width: 32%;
-    margin: 0.5rem;
-    font-size: 1rem;
-}*/
-
 .no-list-decor {
     list-style-type: none;
 }
 
 
-.landing-img {
-    width: 100%;
-
-}
-
-#landing-pg-content h2 {
-    margin: 3rem;
-
-}
 
 
-#reasons-list>li {
-    font-size: 0.75rem;
-}
 
-button {
-    background-color: #3B3355;
-    height: 5rem;
-    width: 15rem;
-    border: 1px solid #ff5f1f;
-    border-radius: 10px;
-    font-size: 2rem;
-    color: #ff5f1f;
-    margin: 2rem;
-}
-
-.button-center {
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-}
 
 /* code for contact page */
 
@@ -203,16 +186,29 @@ figure {
 
 
 .flex-home-content {
-    max-width: 40%;
+    max-width: 100%;
     margin: 0.5rem;
     font-size: 1rem;
-    margin: 0 auto;
     display: flex;
     flex-direction: column;
 }
 
 .flex-home-content>li {
     padding: 0.5rem;
+}
+
+.landing-img {
+    width: 100%;
+
+}
+
+#landing-pg-content h2 {
+    margin: 3rem;
+
+}
+
+#reasons-list>li {
+    font-size: 0.75rem;
 }
 
 /* form background image */
@@ -280,9 +276,11 @@ label {
 992px for laptops
 1200px for large devices*/
 
+
+
 @media screen and (min-width: 576px) {
 
-    h1{
+    h1 {
         font-size: 3rem;
     }
 
@@ -295,7 +293,21 @@ label {
         font-size: 1rem;
     }
 
+    /* home page */
+
+    .flex-home-content {
+        font-size: 1.5rem;
+    }
+
+    #reasons-list>li {
+        font-size: 1rem;
+        margin: 0 1rem;
+    }
+
+
+
     /*form reposition and resize*/
+
     .enquiry-form {
         border: 3px solid #3b3355;
         border-radius: 10px;
@@ -326,18 +338,21 @@ label {
 
 }
 
+
+
+
 @media screen and (min-width: 768px) {
 
-    /*home page */
+    /* home page */
 
     .flex-home-content {
-        max-width: 60%;
-        margin: 0.5rem;
-        font-size: 1rem;
-        margin: 0 auto;
-        display: flex;
+        font-size: 2rem;
         flex-direction: row;
-        align-items: center;
+    }
+
+    #reasons-list>li {
+        font-size: 1.5rem;
+        margin: 0 1rem;
     }
 
     .flex-home-content>li {
@@ -368,16 +383,72 @@ label {
 
 @media screen and (min-width: 992px) {
 
-h1{
-    font-size: 4rem;
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2{
+        font-size: 3rem;
+    }
+
+    /*home page */
+
+    .flex-home-content {
+        font-size: 2rem;
+        align-items: center;
+    }
+
+    .flex-home-content>li {
+        padding: 0.5rem;
+        width: 50%;
+    }
+
+    #reasons-list>li {
+        font-size: 1.5rem;
+        margin: 0 25%;
+    }
+
+
+    /* code for contact page */
+
+    .contact-flex {
+        font-size: 1.4rem;
+    }
+
+
 }
-}
+
+
+
 @media screen and (min-width: 1200px) {
-    h1{
+    h1 {
         font-size: 6rem;
     }
+
+h2{
+    font-size: 4rem;
+}
 
     nav {
         font-size: 2rem;
     }
+
+    /* Home page responsive*/
+
+    .flex-home-content {
+        font-size: 3rem;
+    }
+
+    #reasons-list>li {
+        font-size: 2rem;
+    }
+
+    /* code for contact page */
+
+    .contact-flex {
+        font-size: 2.5rem;
+    }
+
+
+
 }
