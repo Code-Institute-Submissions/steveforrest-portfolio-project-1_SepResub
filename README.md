@@ -7,13 +7,19 @@ This site will be used to help pepromote demonstrating minatures people have pai
 
 ## UX
 
-### Logo
-
-![Sites logo in floresent orange on black back ground saying, Epic painted models](assets/Readme-images/Logo.png)
+This site is designed to advertise a store where people are able to visit in order to request painting commisions done for there models, they will also be able to purchase advertised projects.
 
 ### User stories
 
+As a user i would like to -
+* find examples of commisions that match what they are looking for 
+* easily message commissionersto make an enquiry about their work
+* easily message commisioners in order to purchase displayed work
+* find out where the store is as you may not want work posted
 
+### Logo
+
+![Sites logo in floresent orange on black back ground saying, Epic painted models](assets/Readme-images/Logo.png)
 
 ## Future builds 
 
