@@ -9,7 +9,11 @@ This site will be used to help pepromote demonstrating minatures people have pai
 
 ### Logo
 
+![Sites logo in floresent orange on black back ground saying, Epic painted models](assets/Readme-images/Logo.png)
+
 ### User stories
+
+
 
 ## Future builds 
 
