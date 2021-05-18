@@ -12,12 +12,13 @@ header {
     background-color: #000000;
     border-bottom: 2px solid #3b3355;
     font-family: Orbitron, sans-serif;
-    padding: 0.5rem;
+    
 }
 
 footer {
     border-top: 2px solid #3b3355;
-    padding: 0.5rem;
+    padding: 6rem 0;
+    background-color: #000000;
 }
 
 footer>ul {
@@ -26,7 +27,7 @@ footer>ul {
 
 h1 {
     font-size: 2rem;
-    padding: 1rem;
+    padding: 15rem 0;
 }
 
 h2 {
@@ -104,13 +105,13 @@ section{
 }
 
 .button {
-    background-color: #3B3355;
+    background-color: #ff5f1f;
     height: 5rem;
     width: 15rem;
     border: 1px solid #ff5f1f;
     border-radius: 10px;
     font-size: 2rem;
-    color: #ff5f1f;
+    color: #fff;
     margin: 2rem;
 }
 
