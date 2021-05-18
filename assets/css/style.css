@@ -1,5 +1,4 @@
 body {
-    background-color: #000000;
     font-family: Lato, sans-serif;
 }
 
@@ -10,6 +9,7 @@ body {
 }
 
 header {
+    background-color: #000000;
     border-bottom: 2px solid #3b3355;
     font-family: Orbitron, sans-serif;
     padding: 0.5rem;
@@ -35,6 +35,10 @@ h2 {
 
 }
 
+h3{
+    font-size: 1.25rem;
+}
+
 h6 {
     padding: 1rem;
     font-size: 0.7rem;
@@ -51,6 +55,10 @@ nav {
 
 .text-upper-case {
     text-transform: uppercase;
+}
+
+section{
+    padding-bottom: 3rem;
 }
 
 .text-center {
@@ -375,7 +383,7 @@ label {
         font-size: 4rem;
     }
 
-    h2{
+    h2 {
         font-size: 3rem;
     }
 
@@ -405,12 +413,12 @@ label {
 
     .contact-background {
         height: 1100px;
-           }
+    }
 
 
 
     /* Enquiry form */
-    
+
 
     .enquiry-form {
         top: -260px;
@@ -427,9 +435,9 @@ label {
         font-size: 6rem;
     }
 
-h2{
-    font-size: 4rem;
-}
+    h2 {
+        font-size: 4rem;
+    }
 
     nav {
         font-size: 2rem;
