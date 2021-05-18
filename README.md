@@ -1,4 +1,20 @@
-# Portfolio Project 1 
+# Epic painted model
+
+## Contents
+
+* Reasons for this project
+* UX
+* User stories
+* Logo
+* Future builds
+* Build status
+* Wire frame
+* Languages
+* Libraries and other technologies
+* Testing
+* Screenshots of site
+* Citations
+
 
 ## Reason for this project 
 
@@ -30,6 +46,8 @@ Depending on how many users it may be feasable to allow a function to allow peop
 ## Build Status 
 
 Under construction.
+
+![Custom badge](https://img.shields.io/endpoint?color=grey&label=Build%20Status&style=for-the-badge)
 
 ## WireFRame 
 
@@ -73,6 +91,8 @@ Who we are is a page where you will be able to find out some details about the p
 
 * [W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* Responsiveness was tested in dev tools on google chrome, microsoft edge, mozilla and firefox. The site was also tested live on iphoneX safari, amazon kindle fire10 and widows desktop.
+
 
 ## screen shot of site
 
