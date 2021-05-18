@@ -47,7 +47,7 @@ Depending on how many users it may be feasable to allow a function to allow peop
 
 Under construction.
 
-![Custom badge](https://img.shields.io/endpoint?color=grey&label=Build%20Status&style=for-the-badge)
+![Custom badge](https://img.shields.io/endpoint?color=grey&label=Build%20Status)
 
 ## WireFRame 
 
