@@ -23,7 +23,7 @@ footer {
 
 
 section {
-    margin: 20rem 0;
+    margin: 5rem 0;
 }
 
 footer>ul {
@@ -65,9 +65,6 @@ nav {
     text-transform: uppercase;
 }
 
-section {
-    padding-bottom: 3rem;
-}
 
 .text-center {
     text-align: center;
@@ -422,6 +419,7 @@ label {
 
     .contact-flex {
         font-size: 1.4rem;
+        margin: 10rem 0;
     }
 
     .contact-background {
@@ -469,7 +467,7 @@ label {
     /* code for contact page */
 
     .contact-flex {
-        font-size: 25rem;
+        font-size: 2rem;
     }
 
 }
