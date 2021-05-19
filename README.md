@@ -8,11 +8,12 @@
 * Logo
 * Future builds
 * Build status
+* Deployment
 * Wire frame
 * Languages
 * Libraries and other technologies
 * Testing
-* Screenshots of site
+* Bugs
 * Citations
 
 
@@ -49,7 +50,13 @@ Passing
 
 ## Deployment
 
+The site was deployed in the following ways
 
+1. Click on settings tab on my repository.
+2. Click the pages tab.
+3. Set source branch to master. This created a link to the deployed version of the website.
+
+From github pages the link can be copied and used in an IDE to open the site.
 
 ## WireFRame 
 
@@ -106,9 +113,11 @@ Who we are is a page where you will be able to find out some details about the p
 ### Home page sections
 
 On the home page the first section would not perform as intened taking into account the justify content parameter of the class attached.
-I used unauthordox code in order to get the lower section to act as intended and used <li> to group the actual list which was nested inside the parent nest in order to get the 
+I used unauthordox code in order to get the lower section to act as intended and used <li> to group the actual list which was nested inside the parent nest in order to get the image to sit next to the nested lists correctly.
 
-## screen shot of site
+### Gallery images
+
+The images should line up so images in land scape or portrait are next to each other. I considered using Grid for this but was unable to learn and impliment it due to time constraints.
 
 ## Citations
 
