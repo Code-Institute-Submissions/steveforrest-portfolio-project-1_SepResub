@@ -47,6 +47,10 @@ Depending on how many users it may be feasable to allow a function to allow peop
 
 Passing
 
+## Deployment
+
+
+
 ## WireFRame 
 
 #### Landing Page wireframe
@@ -90,7 +94,19 @@ Who we are is a page where you will be able to find out some details about the p
 * [W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * Responsiveness was tested in dev tools on google chrome, microsoft edge, mozilla and firefox. The site was also tested live on iphoneX safari, amazon kindle fire10 and widows desktop.
+* Testing was conducted bu
+  1. Using dev tools responsiveness was tested by reducing the horizontal screen size
+  2. the device setting was selected and then the orientation was changed
+  3. All navigational links were checked by clicking on them
+  4. buttons were selected to see if you were taken to the correct place
+  5. forms were filled out to see if each required field worked as intended and if you were taken to the dump page.
 
+## Bugs
+
+### Home page sections
+
+On the home page the first section would not perform as intened taking into account the justify content parameter of the class attached.
+I used unauthordox code in order to get the lower section to act as intended and used <li> to group the actual list which was nested inside the parent nest in order to get the 
 
 ## screen shot of site
 
