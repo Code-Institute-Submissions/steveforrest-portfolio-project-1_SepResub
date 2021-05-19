@@ -54,7 +54,7 @@ h6 {
 }
 
 nav {
-    font-size: 0.5rem;
+    font-size: 0.25rem;
 }
 
 .font-color-orange {
@@ -113,13 +113,12 @@ section {
 
 .button {
     background-color: #ff5f1f;
-    height: 5rem;
-    width: 15rem;
     border: 1px solid #ff5f1f;
     border-radius: 10px;
     font-size: 2rem;
     color: #fff;
     margin: 2rem;
+    padding: 1rem;
 }
 
 .button-center {
@@ -142,7 +141,6 @@ section {
 .no-list-decor {
     list-style-type: none;
 }
-
 
 
 
@@ -250,7 +248,6 @@ figure {
     background: RGBA(255, 95, 31, .5);
     position: relative;
     font-size: 1.5rem;
-    height: 600px;
     margin: 2rem 0;
     width: 340px;
 }
@@ -262,12 +259,14 @@ textarea {
     border: 2px solid #3B3355;
     border-radius: inherit;
     margin: 1.5rem;
+    font-size: 1rem.5;
 }
 
 label {
     display: block;
     width: 100%;
     padding: 1rem 0 0.05rem;
+    margin: 1.5rem;
 }
 
 .button-form {
@@ -298,7 +297,7 @@ label {
     }
 
     nav {
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 
     h6 {
@@ -329,10 +328,8 @@ label {
         top: -80px;
         left: -120px;
         font-size: 1rem;
-        height: 500px;
-        margin: 2rem 0;
-        width: 340px;
-    }
+              margin: 2rem 0;
+          }
 
     input,
     textarea {
@@ -403,7 +400,7 @@ label {
         font-size: 3rem;
     }
 
-    /*home page */
+      /*home page */
 
     .flex-home-content {
         font-size: 2rem;
