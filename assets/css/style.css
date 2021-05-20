@@ -192,6 +192,9 @@ figure {
 /*controls content specific to the home page*/
 
 
+
+
+
 .flex-home-content {
     max-width: 100%;
     margin: 0.5rem;
@@ -199,6 +202,7 @@ figure {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    
 }
 
 .flex-home-content>li {
