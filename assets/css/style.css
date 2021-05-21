@@ -110,7 +110,7 @@ h6 {
     color: #fff;
     margin: 2rem;
     padding: 1rem;
-    
+
 }
 
 .button-center {
@@ -131,11 +131,11 @@ h6 {
     color: #FFA987;
 }
 
-.button-center>a:hover{
+.button-center>a:hover {
     background-color: #FFA987;
 }
 
-.flex-footer>div>li>a:hover{
+.flex-footer>div>li>a:hover {
     color: #FFA987;
 }
 
@@ -147,7 +147,7 @@ footer {
     background-color: #000000;
 }
 
-.flex-footer{
+.flex-footer {
     display: flex;
     justify-content: space-around;
 
@@ -175,6 +175,11 @@ footer {
     font-size: 1rem;
     text-align: center;
     list-style-type: none;
+
+}
+
+.contact-flext>p {
+    margin: 0 10rem;
 }
 
 .contact-img {
@@ -274,7 +279,7 @@ figure {
     position: relative;
     font-size: 1.5rem;
     margin: 2rem 0;
-    width: 340px;
+    width: 95%;
 }
 
 input,
@@ -350,11 +355,10 @@ label {
         border-radius: 5px;
         background: RGBA(255, 95, 31, .5);
         position: relative;
-        top: -80px;
-        left: -120px;
+        top: -60px;
         font-size: 1rem;
-              margin: 2rem 0;
-          }
+        margin: 2rem 0;
+    }
 
     input,
     textarea {
@@ -425,7 +429,7 @@ label {
         font-size: 3rem;
     }
 
-      /*home page */
+    /*home page */
 
     .flex-home-content {
         font-size: 2rem;
@@ -462,7 +466,8 @@ label {
     .enquiry-form {
         top: -260px;
         left: -260px;
-    }
+        width: 340px;
+            }
 
 
 }
@@ -497,5 +502,14 @@ label {
     .contact-flex {
         font-size: 2rem;
     }
+
+    /* Enquiry form */
+
+
+    .enquiry-form {
+        top: -260px;
+        left: -300px;
+        width: 540px;
+            }
 
 }
