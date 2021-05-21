@@ -96,6 +96,12 @@ h6 {
     flex-wrap: wrap;
     font-size: 1.3rem;
     padding: 2rem 0;
+    flex-flow: column;
+    text-align: center;
+}
+
+.flex-nav>li {
+    padding: 1rem 0;
 }
 
 .active {
@@ -152,7 +158,7 @@ input#submit:hover {
     background-color: #ff5f1f;
 }
 
-   
+
 /* footer */
 
 footer {
@@ -341,7 +347,11 @@ label {
     }
 
     nav {
-        font-size: 0.5rem;
+        font-size: 0.75rem;
+    }
+
+    .flex-nav {
+        flex-flow: row;
     }
 
     h6 {
