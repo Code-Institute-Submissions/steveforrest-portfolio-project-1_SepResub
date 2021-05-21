@@ -353,7 +353,10 @@ label {
     .flex-nav {
         flex-flow: row;
     }
+h3{
+    font-size: 1.5rem;
 
+}
     h6 {
         padding: 1rem;
         font-size: 1rem;
@@ -411,6 +414,13 @@ label {
         font-size: 2rem;
         flex-direction: row;
     }
+h3{
+font-size: 2rem;
+}
+
+h6{
+    font-size: 1.5rem;
+}
 
     #reasons-list>li {
         font-size: 1.5rem;
@@ -452,6 +462,7 @@ label {
         font-size: 3rem;
     }
 
+ 
     /*home page */
 
     .flex-home-content {
@@ -512,6 +523,12 @@ label {
         font-size: 4rem;
     }
 
+h3{
+font-size: 2.5rem;
+}
+h6{
+    font-size: 2rem;
+}
     nav {
         font-size: 1rem;
     }
