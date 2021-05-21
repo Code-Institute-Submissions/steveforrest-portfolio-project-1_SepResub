@@ -119,6 +119,10 @@ I used unauthordox code in order to get the lower section to act as intended and
 
 The images should line up so images in land scape or portrait are next to each other. I considered using Grid for this but was unable to learn and impliment it due to time constraints.
 
+### footer links
+
+I intended to get the links in the footers to cahnge colors when hovered over but i could not get the specificity to target the icons.
+
 ## Citations
 
 [Spikeybits.com](https://www.pinterest.co.uk/pin/491455378086406395/?d=t&mt=login taken for contact for back ground image)

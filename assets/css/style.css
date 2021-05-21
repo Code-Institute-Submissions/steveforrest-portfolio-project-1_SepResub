@@ -16,9 +16,6 @@ header {
 
 }
 
-
-
-
 section {
     margin: 5rem 0;
 }
@@ -113,6 +110,7 @@ h6 {
     color: #fff;
     margin: 2rem;
     padding: 1rem;
+    
 }
 
 .button-center {
@@ -121,14 +119,24 @@ h6 {
     text-decoration: none;
 }
 
+
 .img-border {
     border: 2px solid #000000;
     border-radius: 5px;
 }
 
+/* hover links */
 
 .flex-nav>li>a:hover {
-    color: blue;
+    color: #FFA987;
+}
+
+.button-center>a:hover{
+    background-color: #FFA987;
+}
+
+.flex-footer>div>li>a:hover{
+    color: #FFA987;
 }
 
 /* footer */
