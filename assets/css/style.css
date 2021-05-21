@@ -154,7 +154,12 @@ footer {
 .flex-footer {
     display: flex;
     justify-content: space-around;
+    flex-flow: column;
 
+}
+.flex-footer>div{
+
+    padding: 2rem 0;
 }
 
 /* home page */
@@ -449,8 +454,12 @@ label {
         font-size: 1.5rem;
         margin: 0 25%;
     }
+/* footer */
 
-
+    .flex-footer {
+       flex-flow: row;
+    
+    }
     /* code for contact page */
 
     .contact-flex {
