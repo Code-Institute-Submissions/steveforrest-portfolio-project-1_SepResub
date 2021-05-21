@@ -147,6 +147,12 @@ h6 {
     color: #FFA987;
 }
 
+input#submit:hover {
+    color: #3B3355;
+    background-color: #ff5f1f;
+}
+
+   
 /* footer */
 
 footer {
