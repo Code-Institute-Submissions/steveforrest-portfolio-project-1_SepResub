@@ -98,6 +98,8 @@ h6 {
     padding: 2rem 0;
     flex-flow: column;
     text-align: center;
+    background-color: white;
+    list-style: none;
 }
 
 .flex-nav>li {

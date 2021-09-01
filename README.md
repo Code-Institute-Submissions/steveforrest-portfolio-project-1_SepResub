@@ -26,14 +26,6 @@ This site will be used to help pepromote demonstrating minatures people have pai
 
 This site is designed to advertise a store where people are able to visit in order to request painting commisions done for there models, they will also be able to purchase advertised projects.
 
-### User stories
-
-As a user i would like to -
-* find examples of commisions that match what they are looking for 
-* easily message commissionersto make an enquiry about their work
-* easily message commisioners in order to purchase displayed work
-* find out where the store is as you may not want work posted
-
 ### Logo
 
 ![Sites logo in floresent orange on black back ground saying, Epic painted models](assets/Readme-images/Logo.png)
@@ -50,13 +42,25 @@ Passing
 
 ## Deployment
 
-The site was deployed in the following ways
+This project was developed using Gitpod IDE and pushed to Github using the in-built terminal.
+This project was deployed from the Github Respository to GitHub Pages using the following steps:
 
-1. Click on settings tab on my repository.
-2. Click the pages tab.
-3. Set source branch to master. This created a link to the deployed version of the website.
+Log into Github.
+* Select the AideenM12/retro-gaming-hackathon respository.
+* Click the settings tab.
+* Scroll to the GitHub Pages section of the page.
+* Under the source heading select the master branch option.
+* Click save.
+* The project has now been deployed. Scroll back to the GitHub pages section and click on the link above the source heading to view the live site.
 
-From github pages the link can be copied and used in an IDE to open the site.
+Making a clone to run locally
+* Log into GitHub.
+* Select the respository.
+* Click the Code dropdown button next to the green Gitpod button.
+* Download ZIP file and unpackage locally and open with IDE. Alternatively copy the URL in the HTTPS box.
+* Open the alternative editor and terminal window.
+* Type 'git clone' and paste the copied URL.
+* Press Enter. A local clone will be created.
 
 ## WireFRame 
 
