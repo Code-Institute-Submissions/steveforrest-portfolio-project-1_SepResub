@@ -344,7 +344,6 @@ footer {
     font-size: 1rem;
     text-align: center;
     list-style-type: none;
-
 }
 
 .contact-flext>p {
@@ -355,7 +354,6 @@ footer {
     width: 75%;
 }
 
-
 /*controls content on the gallery html */
 
 .flex-gallery {
@@ -365,8 +363,6 @@ footer {
     flex-flow: wrap;
     align-items: baseline;
     padding-bottom: 0;
-
-
 }
 
 .flex-gallery>li {
@@ -397,7 +393,7 @@ figure {
 }
 
 .landing-img {
-    width: 50%;
+    width: 100%;
 }
 
 #landing-pg-content h2 {
@@ -419,7 +415,6 @@ figure {
     align-items: center;
     margin: 0 0 0 0.75rem;
 }
-
 
 /* form elements */
 
@@ -469,8 +464,6 @@ label {
 992px for laptops
 1200px for large devices*/
 
-
-
 @media screen and (min-width: 576px) {
 
     h1 {
@@ -506,8 +499,6 @@ label {
         margin: 0 1rem;
     }
 
-
-
     /*form reposition and resize*/
 
     .enquiry-form {
@@ -536,9 +527,6 @@ label {
     }
 
 }
-
-
-
 
 @media screen and (min-width: 768px) {
 
