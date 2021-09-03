@@ -46,7 +46,7 @@ This project was developed using Gitpod IDE and pushed to Github using the in-bu
 This project was deployed from the Github Respository to GitHub Pages using the following steps:
 
 Log into Github.
-* Select the AideenM12/retro-gaming-hackathon respository.
+* Select the https://github.com/steveforrest/portfolio-project-1 respository.
 * Click the settings tab.
 * Scroll to the GitHub Pages section of the page.
 * Under the source heading select the master branch option.
