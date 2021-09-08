@@ -28,7 +28,7 @@ This site is designed to advertise a store where people are able to visit in ord
 
 ### Logo
 
-![Sites logo in floresent orange on black back ground saying, Epic painted models](assets/Readme-images/Logo.png)
+![Responsive display of the site](assets/Readme-images/Logo.png)
 
 ## Future builds 
 
@@ -36,9 +36,21 @@ The site will be intended to facilitate sales, bids on already painted models an
 
 Depending on how many users it may be feasable to allow a function to allow people to search through different commissioners
 
+## Site responsiveness
+
+![Responsive display of the site](assets/Readme-images/amiresponive.png)
+
 ## Features
 
-![Gallery page is created in a mosaic grid form](assets/Readme-images/wireframe-gallery.png)
+![Gallery](assets/Readme-images/gallery.png)
+Gallery page is created in a mosaic grid form
+
+![Buttons](assets/Readme-images/buttons.png)
+
+Buttons are used to allow you to navigate to different parts of the site
+
+![Navbar](assets/Readme-images/navbar.png)
+A navbar is utilised to aid website navigation
 
 ## Deployment
 
@@ -55,7 +67,7 @@ Log into Github.
 
 Making a clone to run locally
 * Log into GitHub.
-* Select the respository.
+* Select the repository.
 * Click the Code dropdown button next to the green Gitpod button.
 * Download ZIP file and unpackage locally and open with IDE. Alternatively copy the URL in the HTTPS box.
 * Open the alternative editor and terminal window.
@@ -105,7 +117,7 @@ Who we are is a page where you will be able to find out some details about the p
 * [W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 * Responsiveness was tested in dev tools on google chrome, microsoft edge, mozilla and firefox. The site was also tested live on iphoneX safari, amazon kindle fire10 and widows desktop.
-* Testing was conducted bu
+* Testing was conducted by
   1. Using dev tools responsiveness was tested by reducing the horizontal screen size
   2. the device setting was selected and then the orientation was changed
   3. All navigational links were checked by clicking on them

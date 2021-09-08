@@ -26,7 +26,7 @@ footer>ul {
 
 h1 {
     font-size: 2rem;
-    padding: 5rem 0;
+    padding: 1rem 0;
 }
 
 h2 {
@@ -115,7 +115,6 @@ h6 {
     color: #fff;
     margin: 2rem;
     padding: 1rem;
-
 }
 
 #indented-title{
@@ -130,6 +129,14 @@ h6 {
 
 #map{
     overflow: hidden;
+}
+
+#contact-map{
+    width: 90%;
+    min-height: 460px;
+    display: block;
+    margin: 0 auto;
+    border: 0;
 }
 
 .img-border {
