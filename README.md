@@ -36,9 +36,9 @@ The site will be intended to facilitate sales, bids on already painted models an
 
 Depending on how many users it may be feasable to allow a function to allow people to search through different commissioners
 
-## Build Status 
+## Features
 
-Passing
+![Gallery page is created in a mosaic grid form](assets/Readme-images/wireframe-gallery.png)
 
 ## Deployment
 
@@ -62,7 +62,7 @@ Making a clone to run locally
 * Type 'git clone' and paste the copied URL.
 * Press Enter. A local clone will be created.
 
-## WireFRame 
+## WireFrame 
 
 #### Landing Page wireframe
 
@@ -127,6 +127,6 @@ The images should line up so images in land scape or portrait are next to each o
 
 ## Citations
 
-[Spikeybits.com](https://www.pinterest.co.uk/pin/491455378086406395/?d=t&mt=login taken for contact for back ground image)
+[Spikeybits.com](https://www.pinterest.co.uk/pin/491455378086406395/?d=t&mt=login) taken for contact for back ground image
 
 
