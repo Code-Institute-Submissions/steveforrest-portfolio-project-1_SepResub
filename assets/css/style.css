@@ -25,7 +25,7 @@ footer>ul {
 
 h1 {
     font-size: 2rem;
-    padding: 1rem 0;
+    padding: 3rem 0;
 }
 
 h2 {
@@ -99,7 +99,7 @@ h6 {
 }
 
 .flex-nav>li {
-    padding: 6rem 0;
+    padding: 1rem 0;
 }
 
 .active {
@@ -154,8 +154,6 @@ h6 {
     max-width: 90%;
     margin: 0 auto;
 }
-
-
 
 /* gallery grid */
 
@@ -270,7 +268,6 @@ input#submit:hover {
     background-color: #ff5f1f;
 }
 
-
 /* footer */
 
 footer {
@@ -327,7 +324,6 @@ footer {
     max-width: 90%;
     margin: 0 auto;
 }
-
 
 /*controls content on the gallery html */
 
@@ -409,6 +405,7 @@ textarea {
     border-radius: inherit;
     margin: 1.5rem;
     font-size: 1rem;
+    padding: 0 0.5rem;
 }
 
 label {
@@ -435,7 +432,7 @@ label {
 
     h1 {
         font-size: 3rem;
-        padding: 10rem 0;
+        padding: 5rem 0;
     }
 
     nav {
@@ -649,7 +646,7 @@ h5{
 
 
     .enquiry-form {
-        top: -260px;
+        top: -20px;
         left: -260px;
         width: 340px;
     }
@@ -700,7 +697,6 @@ h5{
     /* Enquiry form */
 
     .enquiry-form {
-        top: -260px;
         left: -300px;
         width: 540px;
     }
