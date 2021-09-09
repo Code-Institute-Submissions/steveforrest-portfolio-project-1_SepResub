@@ -74,7 +74,7 @@ Making a clone to run locally
 * Type 'git clone' and paste the copied URL.
 * Press Enter. A local clone will be created.
 
-## WireFrame 
+## Wireframe 
 
 #### Landing Page wireframe
 
@@ -105,7 +105,7 @@ Who we are is a page where you will be able to find out some details about the p
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-## Libraries and Other programns / sites
+## Libraries and Other programmes / sites
 
 * [Google Fonts](https://fonts.google.com/)
 * [Font Awesome](https://fontawesome.com/)
@@ -114,8 +114,22 @@ Who we are is a page where you will be able to find out some details about the p
 
 ## Testing
 
-* [W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_uri)
+
+HTML passed validation
+
+![HTML passed validation](assets/Readme-images/htmlpassvalid.png)
+
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+First CSS failed validation 
+
+![CSS failed validation](assets/Readme-images/cssfailvalid.png)
+
+But this was corrected and it passed
+
+![CSS passed validation](assets/Readme-images/csspassvalid.png)
+
 * Responsiveness was tested in dev tools on google chrome, microsoft edge, mozilla and firefox. The site was also tested live on iphoneX safari, amazon kindle fire10 and widows desktop.
 * Testing was conducted by
   1. Using dev tools responsiveness was tested by reducing the horizontal screen size
