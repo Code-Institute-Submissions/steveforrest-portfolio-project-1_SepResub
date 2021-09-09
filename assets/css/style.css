@@ -134,6 +134,10 @@ h6 {
     overflow: hidden;
 }
 
+.list-padding{
+    padding-top: 2rem;
+}
+
 #contact-map{
     width: 90%;
     min-height: 460px;
